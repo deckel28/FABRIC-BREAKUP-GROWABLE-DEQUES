@@ -1,0 +1,2 @@
+# FABRIC-BREAKUP-GROWABLE-DEQUES
+Goal: The goal of this assignment is to get some practice with stack and queue implementation. One of the goals is  also  to  explore  the  use  of  these  data  structures  in  the  context  of  an  application.  In  Part  (a)  of  the  assignment  you  have to  solve a puzzle. In Pa rt (b) of the assignment you have to implement the growable array version of the deque  data structure
